@@ -72,7 +72,7 @@ export const Wrapper = styled.div`
     }
 
     a {
-      margin-top: 8px;
+      margin-top: 7px;
       width: fit-content;
       padding: 8px 18px;
       background: var(--primary);
