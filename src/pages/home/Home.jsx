@@ -6,7 +6,7 @@ import { FaTelegram } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
-import Lazizjon from "./assets/Lazizjon_2.png"
+// import Lazizjon from "./assets/Lazizjon_2.png"
 import Lazizjon3 from "./assets/lazizjon3.png"
 
 const Home = () => {
